@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/back_anim.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/bridge.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/bush.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/bushS.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/door.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/front_anim.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/grass.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/key.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/Link_all.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/opendoor.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/running_anim.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/skelett_anim.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/skelett.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/soil.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/stonefloor.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/sword_anim.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/wall.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/water.png</File>
+    <File>/Users/dawood/Desktop/Zelda2/MyGame/Content/Zelda.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

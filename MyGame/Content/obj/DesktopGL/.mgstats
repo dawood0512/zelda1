@@ -1,0 +1,20 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/back_anim.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/back_anim.xnb","TextureProcessor","Texture2DContent",10759,51285,0.070044
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/bridge.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/bridge.xnb","TextureProcessor","Texture2DContent",631,6485,0.054282
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/bush.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/bush.xnb","TextureProcessor","Texture2DContent",3551,6485,0.000915
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/bushS.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/bushS.xnb","TextureProcessor","Texture2DContent",3542,6485,0.00093
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/door.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/door.xnb","TextureProcessor","Texture2DContent",2565,6485,0.000924
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/front_anim.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/front_anim.xnb","TextureProcessor","Texture2DContent",14407,51285,0.001818
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/grass.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/grass.xnb","TextureProcessor","Texture2DContent",2218,6485,0.000564
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/key.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/key.xnb","TextureProcessor","Texture2DContent",1956,6485,0.000434
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/Link_all.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/Link_all.xnb","TextureProcessor","Texture2DContent",51850,256085,0.005815
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/opendoor.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/opendoor.xnb","TextureProcessor","Texture2DContent",2214,6485,0.00058
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/running_anim.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/running_anim.xnb","TextureProcessor","Texture2DContent",9170,51285,0.001386
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/skelett_anim.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/skelett_anim.xnb","TextureProcessor","Texture2DContent",5164,25685,0.000722
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/skelett.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/skelett.xnb","TextureProcessor","Texture2DContent",1786,6485,0.000533
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/soil.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/soil.xnb","TextureProcessor","Texture2DContent",1659,6485,0.000539
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/stonefloor.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/stonefloor.xnb","TextureProcessor","Texture2DContent",1679,6485,0.000534
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/sword_anim.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/sword_anim.xnb","TextureProcessor","Texture2DContent",16143,51285,0.001245
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/wall.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/wall.xnb","TextureProcessor","Texture2DContent",2433,6485,0.000545
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/water.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/water.xnb","TextureProcessor","Texture2DContent",2641,6485,0.00075
+"/Users/dawood/Desktop/Zelda2/MyGame/Content/Zelda.png","/Users/dawood/Desktop/Zelda2/MyGame/Content/bin/DesktopGL/Zelda.xnb","TextureProcessor","Texture2DContent",3086,6485,0.000412
